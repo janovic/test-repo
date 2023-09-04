@@ -1,1 +1,1 @@
-console.log("stefan je najjaci");
+console.log("nenene ti si");
